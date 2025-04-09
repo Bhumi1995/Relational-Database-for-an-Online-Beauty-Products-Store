@@ -1,5 +1,7 @@
 # Relational-Database-for-an-Online-Beauty-Products-Store
 Relational Database for an Online Beauty Products Store
 Our database design model is developed for an e-store that sells beauty products to customers around the world. The purpose of this database is to keep track of the employees, beauty products inventory, orders, customers, and suppliers of the beauty products. We aim to improve the efficiency of the e-store's operations by providing an organized and secure platform to manage the flow of information.
+
 The e-store is divided into categories of beauty products, each with a distinct name and number. Each category has its own set of products, including their name, description, price, and image. We keep records of the number of products available in stock, the number of the items sold and the number of products on order from suppliers. The e-store has multiple suppliers from whom it sources its products. Some of the products are manufactured and some products are purchased from the vendors. We keep track of the name, tracking information, and products supplied by each supplier.
+
 Customers can create accounts and place orders for the products they want to purchase. We keep track of each customer's name, contact information, shipping and billing addresses, and order history. Each order has a unique order number, date, and status. We also keep track of the amount for each order.
